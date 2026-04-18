@@ -3,17 +3,6 @@ site_url: https://dayanandcortex.github.io
 site_description: AI Systems Engineer portfolio
 site_author: Dayanand
 
-# theme:
-#   name: material
-#   palette:
-#     scheme: slate
-#     primary: indigo
-#     accent: indigo
-# theme:
-#   name: material
-#   features:
-#     - content.code.copy
-#     - content.tabs.link
 
 theme:
   name: material
