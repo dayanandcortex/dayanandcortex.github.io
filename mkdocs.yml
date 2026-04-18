@@ -1,0 +1,56 @@
+site_name: Dayanand Portfolio
+site_url: https://dayanandcortex.github.io
+site_description: AI Systems Engineer portfolio
+site_author: Dayanand
+
+# theme:
+#   name: material
+#   palette:
+#     scheme: slate
+#     primary: indigo
+#     accent: indigo
+# theme:
+#   name: material
+#   features:
+#     - content.code.copy
+#     - content.tabs.link
+
+theme:
+  name: material
+  palette:
+
+    # Dark mode (default)
+    - scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    # Light mode (optional toggle)
+    - scheme: default
+      primary: blue grey
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
+  - GitHub: github.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dayanandcortex
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/dayanandsagarkukkala
