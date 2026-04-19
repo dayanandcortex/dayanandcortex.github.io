@@ -54,9 +54,14 @@ Organized by categories to reflect different AI system capabilities.
 
 | Project | View Project |
 |--------|-------------|
-| Geely Car Pricing Model — Linear Regression with 92% prediction accuracy | [View](https://github.com/dayanandcortex/Geely-Automation-Pricing-Model) |
-| Housing Price Prediction (Real Estate) — Advanced Linear Regression using Ridge & Lasso to model key factors influencing house prices | [View](https://github.com/dayanandcortex/House-Price-Prediction) |
-| Simple Regression & ML Models (Coming Soon) | [View](https://github.com/dayagen) |
+| Sensor Fault Detection (Automobile/IoT) — End-to-end ML system for APS failure detection using classification models and scalable deployment | [View](https://github.com/dayanandcortex/sensor-fault-detection-com) |
+| Geely Car Pricing Model (Automobile) — Linear Regression with 92% prediction accuracy | [View](https://github.com/dayanandcortex/Geely-Automation-Pricing-Model) |
+| Housing Price Prediction (Real Estate) — Ridge & Lasso regression model to identify key drivers of housing prices | [View](https://github.com/dayanandcortex/House-Price-Prediction) |
+| Credit Card Anomaly Detection (BFS) — Fraud detection model handling highly imbalanced data (0.172%) using Random Undersampling and SMOTE | [View](https://github.com/dayanandcortex/Credit-Card-Anomaly-Detection) |
+| Lead Scoring Model (Edu Tech) — Logistic Regression with ROC analysis to improve lead conversion prediction | [View](https://github.com/dayanandcortex/Lead-Scoring-Case-Study) |
+| Country Aid Cluster Analysis (NGO) — PCA with K-Means & Hierarchical clustering to identify high-need countries based on socio-economic and health factors | [View](https://github.com/dayanandcortex/Cluster-Analysis-of-Country-Aid) |
+| GDP Analysis of India (Finance) — Exploratory Data Analysis to segment states by GDP per capita and recommend growth focus areas | [View](https://github.com/dayanandcortex/GDP_Analysis_Final_EDA) |
+| NYC Taxi & Limousine Commission Analysis (Transportation) — Hadoop-based analysis to improve efficiency of city-wide taxi pickup and drop operations | [View](https://github.com/dayanandcortex/New-York-City-Taxi-Limousine-Commission-TLC---Analysis) |
 
 ---
 
