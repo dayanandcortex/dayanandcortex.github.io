@@ -55,7 +55,7 @@ Organized by categories to reflect different AI system capabilities.
 | Project | View Project |
 |--------|-------------|
 | Geely Car Pricing Model — Linear Regression with 92% prediction accuracy | [View](https://github.com/dayanandcortex/Geely-Automation-Pricing-Model) |
-| Housing Price Prediction (Real Estate) — Advanced Linear Regression using Ridge & Lasso to model key factors influencing house prices | | [View](https://github.com/dayanandcortex/House-Price-Prediction) |
+| Housing Price Prediction (Real Estate) — Advanced Linear Regression using Ridge & Lasso to model key factors influencing house prices | [View](https://github.com/dayanandcortex/House-Price-Prediction) |
 | Simple Regression & ML Models (Coming Soon) | [View](https://github.com/dayagen) |
 
 ---
