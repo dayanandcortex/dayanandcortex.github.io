@@ -44,8 +44,9 @@ Organized by categories to reflect different AI system capabilities.
 
 | Project | View Project |
 |--------|-------------|
-| LaTeX OCR AI (Coming Soon) | [View](https://github.com/dayanandcortex/latex_ocr_app) |
+| LaTeX OCR AI | [View](https://github.com/dayanandcortex/latex_ocr_app) |
 | Math Equation Understanding Pipeline (Coming Soon) | [View](https://github.com/dayagen) |
+| 🩺 MediSight: See. Analyze. Diagnose! | [View](https://github.com/dayanandcortex/healthbot-gpt4o) |
 
 ---
 
