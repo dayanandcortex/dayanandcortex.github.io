@@ -44,7 +44,7 @@ Organized by categories to reflect different AI system capabilities.
 
 | Project | View Project |
 |--------|-------------|
-| LaTeX OCR AI (Coming Soon) | [View](https://github.com/dayagen) |
+| LaTeX OCR AI (Coming Soon) | [View](https://github.com/dayanandcortex/latex_ocr_app) |
 | Math Equation Understanding Pipeline (Coming Soon) | [View](https://github.com/dayagen) |
 
 ---
