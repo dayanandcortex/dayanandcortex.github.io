@@ -17,7 +17,7 @@ Organized by categories to reflect different AI system capabilities.
 
 | Project | View Project |
 |--------|-------------|
-| Autonomous Document Processing Agent (Coming Soon) | [View](https://github.com/dayagen) |
+| Policy-to-Action Agent | [View](https://github.com/dayanandcortex/policy_to_action_agent) |
 | Multi-step Reasoning Agent (Coming Soon) | [View](https://github.com/dayagen) |
 
 ---
