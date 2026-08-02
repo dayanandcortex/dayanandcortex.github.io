@@ -13,6 +13,15 @@ Organized by categories to reflect different AI system capabilities.
 
 ---
 
+## 🧠 Fine-Tuning
+
+| Project | View Project |
+|--------|-------------|
+| Hugging face Jobs and Inferences| [View](https://github.com/dayanandcortex/hf_job_inferences) |
+| Continued Pre-training (CPT) with Full Fine-tuning | [View](https://github.com/dayanandcortex/cpt_full_finetuning) |
+
+---
+
 ## 🤖 AI Agents
 
 | Project | View Project |
